@@ -11,21 +11,21 @@ body {
   font-family: 'Manrope', 'sans-serif';
 }
 
+h1 {
+  font-size: 3rem;
+}
+
 h1, h2, h3 {
   line-height: 1.2;
 }
 
-/* #b {
-  margin: 10px auto;
-  width: 60%;
-  float: right;
+.link-img {
+  width: 1.5rem;
+  position: relative;
+  top: 4px;
+  margin-right: 0.7rem;
 }
 
-#a {
-  display: flex;
-  justify-content: space-between;
-} 
-
-#c {
-  max-width: 300px;
-} */
+.spiro {
+  filter: grayscale(100%) brightness(0);
+}
