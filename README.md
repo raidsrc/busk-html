@@ -1,3 +1,3 @@
 this busk page has been retired! 
 
-the new one is at raidsrc.me/busk
+the new one is at [raidsrc.me/busk](raidsrc.me/busk)
