@@ -1,3 +1,1 @@
-this busk page has been retired! now, it's just a (mostly) emmpty page that redirects to the new busk page.
-
-the new busk page is at [raidsrc.me/busk](raidsrc.me/busk)
+this page is served to [busk.raidsrc.me](busk.raidsrc.me) and redirects to [raidsrc.me/busk/index.html](raidsrc.me/busk/index.html)
